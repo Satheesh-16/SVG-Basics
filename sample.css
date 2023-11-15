@@ -1,0 +1,29 @@
+body {
+  margin: 30px;
+}
+
+xmp {
+  margin: 0;
+}
+
+a {
+  margin-left: 30px;
+}
+
+li, li div {
+  margin: 30px 0px;
+  cursor: pointer;
+}
+
+.d-none {
+  display: none;
+}
+
+.d-block {
+  display: block;
+}
+
+svg {
+  border: 1px solid black;
+  margin: 0px 90px;
+}
